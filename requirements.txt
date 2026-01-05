@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_community
+python-dotenv
+wikipedia
+langchain-astradb
+langchain-huggingface
+langchain-docling
+langchain-groq
