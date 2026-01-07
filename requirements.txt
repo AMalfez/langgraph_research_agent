@@ -5,5 +5,9 @@ python-dotenv
 wikipedia
 langchain-astradb
 langchain-huggingface
-langchain-docling
+beautifulsoup4
 langchain-groq
+langchain-core
+langchain-text-splitters
+tiktoken
+sentence_transformers
