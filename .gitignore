@@ -3,4 +3,3 @@ venv
 __pycache__/
 .ipynb_checkpoints
 *.pyc
-3_Langraph_With_Astradb.ipynb
